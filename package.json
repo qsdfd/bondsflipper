@@ -1,0 +1,14 @@
+{
+  "name": "bondsflipapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api/server.js",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "scripts": {
+    "start": "node api/server.js"
+  },
+  "author": "Razbek Sulim Ursultanov",
+  "license": "ISC"
+}
