@@ -1,4 +1,4 @@
-var svc = require('../services/bondFlipSvc');
+var svc = require('../services/bll/bondFlipSvc');
 
 module.exports.getBondsFlipData = function(req, res){
   svc.getBondsFlipData()

@@ -1,5 +1,3 @@
-var cnsts = require('../constants');
-
 module.exports.getBondsFlipData = function(){
     return new Promise((resolve, reject) => {
         return resolve("lol");
